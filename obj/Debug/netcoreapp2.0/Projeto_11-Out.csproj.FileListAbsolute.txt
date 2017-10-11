@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\Projeto_11-Out\bin\Debug\netcoreapp2.0\Projeto_11-Out.deps.json
+c:\Users\FIC\Desktop\Projeto_11-Out\bin\Debug\netcoreapp2.0\Projeto_11-Out.runtimeconfig.json
+c:\Users\FIC\Desktop\Projeto_11-Out\bin\Debug\netcoreapp2.0\Projeto_11-Out.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\Projeto_11-Out\bin\Debug\netcoreapp2.0\Projeto_11-Out.dll
+c:\Users\FIC\Desktop\Projeto_11-Out\bin\Debug\netcoreapp2.0\Projeto_11-Out.pdb
+c:\Users\FIC\Desktop\Projeto_11-Out\obj\Debug\netcoreapp2.0\Projeto_11-Out.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\Projeto_11-Out\obj\Debug\netcoreapp2.0\Projeto_11-Out.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\Projeto_11-Out\obj\Debug\netcoreapp2.0\Projeto_11-Out.AssemblyInfo.cs
+c:\Users\FIC\Desktop\Projeto_11-Out\obj\Debug\netcoreapp2.0\Projeto_11-Out.dll
+c:\Users\FIC\Desktop\Projeto_11-Out\obj\Debug\netcoreapp2.0\Projeto_11-Out.pdb
